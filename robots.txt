@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ilayelbaz2.github.io/omanut-hachidush/sitemap.xml
